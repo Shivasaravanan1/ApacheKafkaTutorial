@@ -8,6 +8,8 @@ public class ApachetutorialApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApachetutorialApplication.class, args);
+
+		System.out.println("Apache Kafka");
 	}
 
 }
